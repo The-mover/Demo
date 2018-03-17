@@ -1,0 +1,2 @@
+Changing text file
+it will automatically be detected by git
